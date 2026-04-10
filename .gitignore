@@ -1,9 +1,7 @@
-# chatbot-backend/.gitignore
-
-# Environment variables - NEVER push!
+# Environment variables
 .env
 
-# Node modules - bahut bada folder!
+# Node modules - 
 node_modules/
 
 # Logs
